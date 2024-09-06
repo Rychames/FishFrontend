@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FishController</string>
+
+    <string name="txt_connection">CONECTADO AO ESP: </string>
+    <string name="txt_time">TEMPO DE FUNCIONAMENTO: </string>
+    <string name="txt_accountant">VEZES DESLIGADA: </string>
+    <string name="txt_current">SITUAÇÃO ATUAL: </string>
+</resources>
